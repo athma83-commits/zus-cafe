@@ -49,7 +49,7 @@ const rewardsData: Reward[] = [
   },
   {
     id: "coffee-mug",
-    name: "BrewPoints Mug",
+            name: "Zuscoffee Mug",
     description: "Limited edition ceramic mug",
     pointsCost: 300,
     type: "merchandise",
@@ -67,7 +67,7 @@ const rewardsData: Reward[] = [
   },
   {
     id: "tote-bag",
-    name: "BrewPoints Tote Bag",
+            name: "Zuscoffee Tote Bag",
     description: "Eco-friendly canvas tote bag",
     pointsCost: 250,
     type: "merchandise",
@@ -168,7 +168,7 @@ export default function LoyaltyPage() {
               <Link href="/" className="flex items-center gap-2">
                 <ArrowLeft className="h-5 w-5" />
                 <Coffee className="h-8 w-8 text-primary" />
-                <span className="font-serif font-bold text-xl">BrewPoints</span>
+                <span className="font-serif font-bold text-xl">Zuscoffee</span>
               </Link>
             </div>
             <div className="flex items-center gap-4">

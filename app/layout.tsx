@@ -16,7 +16,7 @@ const montserrat = Montserrat({
 })
 
 export const metadata: Metadata = {
-  title: "BrewPoints - Sip. Share. Earn.",
+          title: "Zuscoffee - Sip. Share. Earn.",
   description: "Your favorite coffee shop with loyalty rewards and social sharing",
   generator: "v0.app",
 }

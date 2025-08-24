@@ -14,7 +14,7 @@ export default function HomePage() {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center gap-2">
               <Coffee className="h-8 w-8 text-primary" />
-              <span className="font-serif font-bold text-xl">BrewPoints</span>
+              <span className="font-serif font-bold text-xl">Zuscoffee</span>
             </div>
             <div className="flex items-center gap-4">
               <Link href="/menu">
@@ -163,7 +163,7 @@ export default function HomePage() {
                 user: "Emma L.",
                 avatar: "/woman-enjoying-coffee.png",
                 image: "/coffee-shop-study.png",
-                caption: "Best study spot in town! Thanks BrewPoints ☕📚",
+                caption: "Best study spot in town! Thanks Zuscoffee ☕📚",
                 likes: 31,
                 points: "+20 points",
               },
@@ -263,7 +263,7 @@ export default function HomePage() {
             <div className="space-y-4">
               <div className="flex items-center gap-2">
                 <Coffee className="h-6 w-6 text-primary" />
-                <span className="font-serif font-bold text-lg">BrewPoints</span>
+                <span className="font-serif font-bold text-lg">Zuscoffee</span>
               </div>
               <p className="text-sm text-muted-foreground">Your favorite coffee shop with rewards that matter.</p>
             </div>
@@ -301,7 +301,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="border-t border-border mt-8 pt-8 text-center text-sm text-muted-foreground">
-            <p>&copy; 2024 BrewPoints. All rights reserved.</p>
+            <p>&copy; 2024 Zuscoffee. All rights reserved.</p>
           </div>
         </div>
       </footer>

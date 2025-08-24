@@ -147,7 +147,7 @@ const postsData: Post[] = [
       avatar: "/woman-enjoying-coffee.png",
     },
     content: {
-      text: "Best study spot in town! Thanks BrewPoints for the perfect atmosphere and amazing coffee ☕📚",
+              text: "Best study spot in town! Thanks Zuscoffee for the perfect atmosphere and amazing coffee ☕📚",
       image: "/coffee-shop-study.png",
       drink: "Cold Brew",
     },
@@ -249,7 +249,7 @@ const influencersData: Influencer[] = [
     followers: "125K",
     verified: true,
     videoThumbnail: "/coffee-shop-interior-with-people-enjoying-coffee-a.png",
-    videoTitle: "Rating BrewPoints' Seasonal Menu ☕",
+            videoTitle: "Rating Zuscoffee' Seasonal Menu ☕",
     views: "45K",
   },
   {
@@ -260,7 +260,7 @@ const influencersData: Influencer[] = [
     followers: "89K",
     verified: true,
     videoThumbnail: "/latte-art-heart-design.png",
-    videoTitle: "Latte Art Tutorial at BrewPoints",
+            videoTitle: "Latte Art Tutorial at Zuscoffee",
     views: "32K",
   },
   {
@@ -326,7 +326,7 @@ export default function SocialPage() {
               <Link href="/" className="flex items-center gap-2">
                 <ArrowLeft className="h-5 w-5" />
                 <Coffee className="h-8 w-8 text-primary" />
-                <span className="font-serif font-bold text-xl">BrewPoints</span>
+                <span className="font-serif font-bold text-xl">Zuscoffee</span>
               </Link>
             </div>
             <div className="flex items-center gap-4">

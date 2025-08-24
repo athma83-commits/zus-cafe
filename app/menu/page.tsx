@@ -272,7 +272,7 @@ export default function MenuPage() {
               <Link href="/" className="flex items-center gap-2">
                 <ArrowLeft className="h-5 w-5" />
                 <Coffee className="h-8 w-8 text-primary" />
-                <span className="font-serif font-bold text-xl">BrewPoints</span>
+                <span className="font-serif font-bold text-xl">Zuscoffee</span>
               </Link>
             </div>
             <div className="flex items-center gap-4">
